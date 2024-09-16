@@ -1,0 +1,6 @@
+Aadi Akyianu
+
+Plan for Kali
+  I plan to use Kali on my personal machine (M1 Mac) through VMware (or UTM if necessary)
+  I currently have Kali installed with both Burpsuite and Wireshark working.
+  
