@@ -44,4 +44,8 @@
     8	0.580481051	192.168.204.129	172.233.221.124	HTTP	382	GET /jeff-square-colorado.jpg HTTP/1.1 
     * You can tell because of the GET request for /jeff-square-colorado.jpg
 
+## ======== QUESTIONS ========
 
+1. What does a SYN or an ACK or a FIN packet actually look like?
+
+2. How does the server break up a packet when it's too big?
